@@ -1,0 +1,6 @@
+{
+  "Vorname" : ["Michael", "Nadja", "Claudia", "Miriam", "Peter"],
+  "Nachname" : ["Saracen", "Ellers", "Müller", "Pacholski", "Broder"],
+  "Alter" : ["33", "44", "56", "42", "54"],
+  "Beruf" : ["Schüler", "Student", "Bankkauffrau", "Verkäuferin", "Fußballer"]
+}
