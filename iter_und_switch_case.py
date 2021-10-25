@@ -1,3 +1,11 @@
+"""
+Ein par Funktionen, die Listen nach bestimmten Eigenschaften durchlaufen, 
+diese dann ändern oder gerator-Objekte erzeugen.
+
+Switch/Case (oder Match/Case): -ab Python 3.10-
+Unicode aus jedem Element in der Liste. (Ein etwas anderer Weg).
+"""
+
 import os
 
 
